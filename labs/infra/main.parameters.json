@@ -1,0 +1,7 @@
+{
+  "environmentName": { "value": "wusaianddb" },
+  "location": { "value": "westus" },
+  "pgUserName": { "value": "tdadmin" },
+  "pgUserPassword": { "value": "Tested2222**" },
+  "pgAuthType": { "value": "Password" }
+}
